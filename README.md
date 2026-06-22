@@ -10,12 +10,6 @@
 ## Tools & Libraries
 Python 3.x · NumPy · Pandas · scikit-learn · TensorFlow · SHAP · LIME · Matplotlib · Seaborn
 
-## How to Run
-All notebooks are designed to run on **Google Colab** (no local setup needed).
-1. Open any `.ipynb` file
-2. Click "Open in Colab" badge
-3. Run all cells (Runtime → Run All)
-
 ## Package Versions
 ```
 numpy==1.26, pandas==2.0, scikit-learn==1.3
